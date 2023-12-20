@@ -337,6 +337,10 @@ button:focus {
     color:#434455;
 
 }
+.fot {
+    display: flex;
+    align-items: baseline;
+}
 .fot-content {
     background-color: #2e2f42;
     padding: 100px 0;
@@ -370,3 +374,21 @@ button:focus {
     display: flex;
     align-items: baseline;
  }
+.social-media {
+    color: #fff;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    margin-bottom: 16px;
+}
+.footer-menu {
+    display: flex;
+    gap: 16px;
+}
+.footer-item {
+    width: 40px;
+  height: 40px;
+}
